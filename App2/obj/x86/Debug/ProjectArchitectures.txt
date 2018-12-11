@@ -1,0 +1,1 @@
+C:\Users\QUANG HAI\source\WebService\EmployeeWebserviceRest\App2\App2.csproj;x86

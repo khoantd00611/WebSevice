@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="EmployeeWebserviceRest" Class="EmployeeDataDataContext" Serialization="Unidirectional" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=DESKTOP-L2AT6ON;Initial Catalog=EmployeeWebserviceRest;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="EmployeeWebserviceRestConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Employee" Member="Employee">
+    <Type Name="Employee">
+      <Column Name="empId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="firstName" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="lastName" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="age" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,7 @@
+C:\Users\QUANG HAI\source\WebService\EmployeeWebserviceRest\EmployeeWebserviceRest\bin\EmployeeWebserviceRest.dll.config
+C:\Users\QUANG HAI\source\WebService\EmployeeWebserviceRest\EmployeeWebserviceRest\bin\EmployeeWebserviceRest.dll
+C:\Users\QUANG HAI\source\WebService\EmployeeWebserviceRest\EmployeeWebserviceRest\bin\EmployeeWebserviceRest.pdb
+C:\Users\QUANG HAI\source\WebService\EmployeeWebserviceRest\EmployeeWebserviceRest\obj\Debug\EmployeeWebserviceRest.csproj.CoreCompileInputs.cache
+C:\Users\QUANG HAI\source\WebService\EmployeeWebserviceRest\EmployeeWebserviceRest\obj\Debug\EmployeeWebserviceRest.dll
+C:\Users\QUANG HAI\source\WebService\EmployeeWebserviceRest\EmployeeWebserviceRest\obj\Debug\EmployeeWebserviceRest.pdb
+C:\Users\QUANG HAI\source\WebService\EmployeeWebserviceRest\EmployeeWebserviceRest\obj\Debug\EmployeeWebserviceRest.csprojAssemblyReference.cache
